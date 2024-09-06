@@ -1,5 +1,8 @@
 ## Team eiai
 
+1. <a href="https://github.com/ei-ai/eiai/blob/main/GroundRules.md">Ground Rules</a>
+
+
 <!--
 
 **Here are some ideas to get you started:**
