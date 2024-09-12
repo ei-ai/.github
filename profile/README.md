@@ -2,7 +2,7 @@
 
 1. <a href="https://github.com/ei-ai/eiai/blob/main/GroundRules.md">Ground Rules</a>
 
-2. <a href="[https://github.com/ei-ai/eiai/blob/main/GroundRules.md](https://www.notion.so/Home-07f1625c85204c2fafeafad2ec21451f)">Notion Page</a>
+2. <a href="https://www.notion.so/Home-07f1625c85204c2fafeafad2ec21451f">Notion Page</a>
 
 
 <!--
