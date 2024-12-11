@@ -1,9 +1,12 @@
 ## Team eiai
 
-1. <a href="https://github.com/ei-ai/eiai/blob/main/GroundRules.md">Ground Rules</a>
+1. [Ground Rules](https://github.com/ei-ai/eiai/blob/main/GroundRules.md)
 
-2. <a href="https://www.notion.so/Home-07f1625c85204c2fafeafad2ec21451f">Notion Page</a>
+2. [Notion Page](https://www.notion.so/Home-07f1625c85204c2fafeafad2ec21451f)
 
+3. Repositories
+   * [Transformer-to-RKNN](https://github.com/ei-ai/Transformer-to-RKNN)
+  
 
 <!--
 
