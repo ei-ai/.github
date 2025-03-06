@@ -6,7 +6,7 @@
 
 3. Repositories
    * [Transformer-to-RKNN](https://github.com/ei-ai/Transformer-to-RKNN)
-   * [Transformer Architecture Search with Hardware Aware Search Space] (https://github.com/ei-ai/HAT)
+   * [Transformer Architecture Search with Hardware Aware Search Space](https://github.com/ei-ai/HAT)
 
 <!--
 
